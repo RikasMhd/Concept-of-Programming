@@ -23,3 +23,7 @@ ChequeNoEnd
 
 DepositCheque(AccountID, ChequeNo, ChequeAccountNo, amount)
 Credit the amount if (ChequeNostart<=chequeno<=ChequeNoEnd) 
+
+
+
+Exception Handling :https://www.geeksforgeeks.org/java/exceptions-in-java/
