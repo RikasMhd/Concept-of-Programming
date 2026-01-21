@@ -1,4 +1,4 @@
-                                                                          Bank Que:
+1.Bank Que:
                                                                           
 Bank Account
 Private AccountID
@@ -26,4 +26,4 @@ Credit the amount if (ChequeNostart<=chequeno<=ChequeNoEnd)
 
 
 
-Exception Handling :https://www.geeksforgeeks.org/java/exceptions-in-java/
+2.Exception Handling :https://www.geeksforgeeks.org/java/exceptions-in-java/
